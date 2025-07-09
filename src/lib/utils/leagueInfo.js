@@ -26,7 +26,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": 1, "b87b7263db709679b2e6684c2d59f7e4"
+      "roster": 1, "323232406184157184"
       "name": "Chike",
       // "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Atlanta, GA", // (optional)
